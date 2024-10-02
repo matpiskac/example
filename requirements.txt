@@ -1,2 +1,7 @@
+# Base
 fastapi[standard]
 jinja2
+
+# Testing
+httpx
+pytest
